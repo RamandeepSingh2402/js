@@ -1,0 +1,22 @@
+JAVASCRIPT TUTORIAL:
+used a lot now a days!
+
+You can work as a front end dev, back end dev, or as a full stack developer as well!
+You can build Web/mobile apps, Real-time Networking Apps, command line tools and games as well using javaScript.
+Where does JS Code run??
+Every browser has JavaScript Engine which helps in running the code of JS. Firefox has: SpiderMonkey, and Chrome has v8.
+Ryan Dahl: Node is a C++ program that uses Chrome's v8, which made Node and Browser both to run the JS code.
+
+JS AND ECMAScript:
+JS is a programming language.
+ECMAScript is just specification.
+
+JS:
+-console.log("Hello World"); : This prints Hello World to the console.
+-2+2 : returns 4
+-alert("HEY!") : prompts HEY! 
+
+SETTING UP THE DEVELOPMENT ENVIRONMENT:
+
+-use "let" keyword to declare a variable.
+-by default, in JS, when you define a variable, it's value is undefined.
